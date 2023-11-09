@@ -29,9 +29,8 @@ Si tienes alguna pregunta o inquietud, no dudes en ponerte en contacto con los a
 - Nombre: Eric Cabrera Cruz
 - Correo electrónico: eric.cabrera101@alu.ulpgc.es
 
-maria mi amol pon tus datos
-- Nombre: Eric Cabrera Cruz
-- Correo electrónico: eric.cabrera101@alu.ulpgc.es
+- Nombre: María del Mar Artigas Rodríguez
+- Correo electrónico: maria.artigas102@alu.ulpgc.es
 
 ¡Gracias por utilizar este detector de matrículas con YOLO y EasyOCR! Esperamos que sea de utilidad para tus aplicaciones de procesamiento de imágenes.
 
