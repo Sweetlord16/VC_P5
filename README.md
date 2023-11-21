@@ -105,11 +105,12 @@ Destacando, de este modo, que para cada imagen, habría que manipular los parám
 
 **Detección negativa.**
 
-![](RackMultipart20231121-1-qjs0lx_html_b9ab277d4da885f6.png) ![](RackMultipart20231121-1-qjs0lx_html_e8670d3dab723440.png)
+<img src="lalaland.jpg" width="300" height="200">
 
-![](RackMultipart20231121-1-qjs0lx_html_57fbc98499adabd1.png) **Detección positiva.**
+ **Detección positiva.**
 
-![](RackMultipart20231121-1-qjs0lx_html_d854eb3babe3ac3f.png)
+<img src="ryan-gosling-1655362981.jpg" width="300" height="200">
+
 
 **Enfoque de Detección con YOLOv8 (Modelo Preentrenado)**
 
