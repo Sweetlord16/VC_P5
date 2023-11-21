@@ -28,13 +28,13 @@ dict\_int\_to\_char = {'0': 'O', '1': 'I', '3': 'J', '4': 'A', '6': 'G', '5': 'S
 
 def license\_complies\_format(text):
 
-# ... (verifica si la matrícula cumple con el formato requerido)
+ ... (verifica si la matrícula cumple con el formato requerido)
 
 return True / False
 
 def format\_license(text):
 
-# ... (formatea el texto de la matrícula utilizando los mapeos definidos)
+... (formatea el texto de la matrícula utilizando los mapeos definidos)
 
 return formatted\_license\_plate
 
@@ -47,7 +47,7 @@ return formatted\_license\_plate
 
 def read\_license\_plate(license\_plate\_crop):
 
-# ... (utiliza EasyOCR para leer el texto de la matrícula)
+ ... (utiliza EasyOCR para leer el texto de la matrícula)
 
 return formatted\_license\_plate, confidence\_score
 
@@ -59,7 +59,7 @@ return formatted\_license\_plate, confidence\_score
 
 license\_plate\_text, license\_plate\_text\_score = read\_license\_plate(license\_plate\_crop)
 
-# ... (se usa el texto de la matrícula en el procesamiento principal)
+ ... (se usa el texto de la matrícula en el procesamiento principal)
 
 if license\_plate\_text is not None:
 
