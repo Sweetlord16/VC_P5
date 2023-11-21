@@ -105,11 +105,12 @@ Destacando, de este modo, que para cada imagen, habría que manipular los parám
 
 **Detección negativa.**
 
-<img src="lalaland.jpg" width="300" height="200">
+<img src="/P5/negativo_negro.png" width="300" height="200"><img src="/P5/negativo.png" width="300" height="200"> 
 
  **Detección positiva.**
 
-<img src="ryan-gosling-1655362981.jpg" width="300" height="200">
+<img src="/P5/positivo_negro.png" width="300" height="200"><img src="/P5/positivo.png" width="300" height="200"> 
+
 
 
 **Enfoque de Detección con YOLOv8 (Modelo Preentrenado)**
